@@ -1,4 +1,4 @@
-# NewBGradSupp- New-Graduate-All-in-One-Platform
+# NewBGradSupp- New Graduate All in One Platform
 
 ## About Me
 My name is Nurul Shafiqa Binti Mohamad Rani. I'm a final year student from School Of Computer Sciences in USM.
