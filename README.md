@@ -3,7 +3,7 @@
 ## About Me
 My name is Nurul Shafiqa Binti Mohamad Rani. I'm a final year student from School Of Computer Sciences in USM.
 
-## About My Final Year Project
+## My Final Year Project
 
 * Description
 
