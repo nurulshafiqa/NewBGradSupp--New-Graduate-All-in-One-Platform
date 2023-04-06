@@ -1,0 +1,24 @@
+   .side-bar .navbar a{
+   display:block;
+   padding: 2rem;
+   margin: .5rem 0;
+   font-size: 1.8rem;
+}
+
+.side-bar .navbar a i{
+   color: var(--main-color);
+   margin-right: 1.5rem;
+   transition: .2s linear;
+}
+
+.side-bar .navbar a span{
+   color: var(--light-color);
+}
+
+.side-bar .navbar a:hover{
+   background-color: purple;
+}
+
+.side-bar .navbar a:hover i{
+   margin-right: 2.5rem;
+}
